@@ -1,2 +1,3 @@
 # ATPLC-Training-Daily_Tasks 
 This is my ATPLC Training Repository
+In this repository, from task 01 to Task 04 is done... 
